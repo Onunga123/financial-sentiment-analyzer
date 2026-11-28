@@ -1,4 +1,10 @@
 ticker,date,time,headline,sentiment_score,sentiment_label,finbert_label,finbert_confidence
+AAPL,2026-11-28,08:02AM,"Apple, Amgen Lead 5 Dow Jones Stocks Near Buy Points",0.1,positive,neutral,0.5047
+AAPL,2026-11-28,07:30AM,These tech stocks may let you play defense without giving up on AI,0.0,neutral,neutral,0.8932
+AAPL,2026-11-27,07:33PM,2027 smartphone market outlook: Apple to outperform as shipments fall 5%,0.0,neutral,negative,0.9745
+AAPL,2026-11-27,04:29PM,"S&P 500, Nasdaq End Best Week In Over A Year As AI Optimism Makes Comeback  VZ, ANT, ADBE, TSLA In Focus",1.0,positive,positive,0.7493
+AAPL,2026-11-27,03:41PM,AI Chip Stocks Swung WildlyWhile Warren Buffetts Apple Climbed 26%,0.0,neutral,positive,0.5516
+AAPL,2026-11-27,03:13PM,OpenAI Reportedly Fires Back At Apple Over Trade Secrets And Hardware Suppliers,0.0,neutral,negative,0.9408
 AAPL,2026-11-27,10:18AM,Apple Stock Isn't Just an Anti-AI Haven. It's an All-Purpose Winner.,0.0,neutral,neutral,0.8348
 AAPL,2026-11-27,08:41AM,Apple gains smartphone share as memory crunch squeezes budget Android phones,0.0,neutral,negative,0.6092
 AAPL,2026-11-27,03:01AM,Airbnb CEO Brian Chesky says staff call him a control freakbut that he learned it from Apples Steve Jobs,0.0,neutral,neutral,0.7962
@@ -93,12 +99,12 @@ AAPL,2026-11-16,04:41PM,Eli Lilly is trouncing Nvidia  and the weight-loss drug 
 AAPL,2026-11-16,03:50PM,Nvidia set to wipe out $2 trillion in market value,0.0,neutral,negative,0.8419
 AAPL,2026-11-16,02:14PM,Apple adds facial recognition unlock to iPhone Duo,0.0,neutral,neutral,0.6868
 AAPL,2026-11-16,02:46AM,AAPL Stock Posted Best Week In 4 Months Amid Nvidia Disruption: Apple Reportedly Plans Smart Glasses To Rival Meta Next Year,0.4047619047619047,positive,positive,0.7
-AAPL,2026-11-16,12:03AM,"More Pain For NVDA? Top Supply Chain Analyst Says New OpenAI, Anthropic Chip Orders Boost Googles TPU Outlook",0.37878787878787873,positive,positive,0.9473
-AAPL,2026-11-15,09:41PM,"Why Did AAPL, ZETA, FROG Stocks Jump To 52-Week Highs Last Week?c",0.0,neutral,neutral,0.88
-AAPL,2026-11-15,04:30AM,5 big analyst AI moves: Nvidia hit with downgrades after Huangs exit,0.0,neutral,negative,0.9467
-AAPL,2026-11-14,09:08PM,Evercore explains why Apple has the right assets to win the personal agents race,0.36190476190476195,positive,neutral,0.7944
-AAPL,2026-11-14,07:30AM,"Elon Musk, Trump, Kress, Nvidias Board On Jensen Huangs Exit: Mag 7 Voices This Week",0.0,neutral,neutral,0.9129
-AAPL,2026-11-13,03:52PM,10 executives who left their companies and later returned as CEO,0.0,neutral,neutral,0.7819
+TSLA,2026-11-27,07:12PM,"Zero To Sixty: Tesla Cybercab Fleet Tops 1,000 In Texas, Lucid Starts Fully Driverless Tests And Chinese EV Maker Posts Stronger Margins",0.0,neutral,positive,0.9444
+TSLA,2026-11-27,04:29PM,"S&P 500, Nasdaq End Best Week In Over A Year As AI Optimism Makes Comeback  VZ, ANT, ADBE, TSLA In Focus",1.0,positive,positive,0.7493
+TSLA,2026-11-27,02:55PM,"TSLA Stock Clocks Best Week In 18 Months: Tesla Reportedly Eyes Buying German Toolmaker Amid Cybercab, Optimus Scaling Plans",0.5,positive,positive,0.9308
+TSLA,2026-11-27,01:53PM,These stocks soared the most during a wild week highlighted by Huang's return to Nvidia,0.3,positive,positive,0.9415
+TSLA,2026-11-27,01:51PM,"Dow Jones Futures: Stock Market Makes Bullish Move, Tesla Leads 7 New Buys; Nvidia's Jensen Huang Heads To Capitol Hill",0.13636363636363635,positive,positive,0.627
+TSLA,2026-11-27,01:11PM,Tesla Takes 1.2M SF at Houstons Cedar Port Industrial Park,0.0,neutral,neutral,0.9326
 TSLA,2026-11-27,09:35AM,SpaceX stock rises after Musk pledges annual share giveaway for kids,0.0,neutral,neutral,0.4946
 TSLA,2026-11-26,08:31PM,"Musk, SpaceX pledge two shares for every US child's Trump Account",0.0,neutral,neutral,0.9233
 TSLA,2026-11-25,10:32PM,Cathie Wood Buys More SpaceX Amid Tesla Merger Talks  Ron Baron Says SpaceX Could Make $50B A Year From One Data Center,0.2,positive,positive,0.5867
@@ -193,12 +199,7 @@ TSLA,2026-11-19,08:00AM,"Japan's Battery Storage Boom: KULR's $14.8M Order Highl
 TSLA,2026-11-19,05:59AM,Elon Musk Reportedly Says Tesla Will Continue To Increase Production In China  TSLA Stock Rises Premarket,0.0,neutral,positive,0.9334
 TSLA,2026-11-19,04:19AM,Campaign Urges Ripple to Burn $30B in XRP as Analyst Cites Tesla in $70 XRP Call,0.0,neutral,neutral,0.8589
 TSLA,2026-11-19,02:44AM,"Tesla to continue increasing China production, state media reports",0.0,neutral,positive,0.8915
-TSLA,2026-11-18,08:56PM,Tesla And SpaceX Better Together? Musk Leans Yes  But Says Performance Must Drive His TSLA Pay,0.5,positive,positive,0.5495
-TSLA,2026-11-18,07:23PM,Elon Musk Says Nvidia Ousting Jensen Huang Is Like Kicking Michael Jordan Off A Winning Team,0.5,positive,neutral,0.8048
-TSLA,2026-11-18,07:05PM,Tesla Wins Manitoba Court Order On EV Rebate Ban As Canadian PM Carney Notes Brands Fading Cachet,0.3,positive,negative,0.5131
-TSLA,2026-11-18,06:18PM,Elon Musk Likens Sacking of Jensen Huang to Benching Michael Jordan,0.0,neutral,negative,0.8945
-TSLA,2026-11-18,04:22PM,Skydances Ellison Welcomes Musk Investment While Committing To Airing Documentary Critical Of Tesla CEO,0.0,neutral,neutral,0.7644
-TSLA,2026-11-18,03:54PM,Skydance's David Ellison calls Elon Musk 'the greatest entrepreneur of our time',1.0,positive,positive,0.6584
+GOOGL,2026-11-27,01:41PM,"Top Stock Reports for Alphabet, Meta & Bank of America",0.5,positive,neutral,0.9416
 GOOGL,2026-11-27,08:55AM,All sectors are set to post weekly gains - and the best performer isn't tech,1.0,positive,positive,0.8625
 GOOGL,2026-11-27,06:01AM,The Anatomy of an AI Rally: Anthropic Stock Quickly Finds Its Place,0.3333333333333333,positive,neutral,0.7357
 GOOGL,2026-11-27,01:41AM,"Japan's JERA in talks with Anthropic, Meta on AI data centers",0.0,neutral,neutral,0.8943
@@ -298,4 +299,3 @@ GOOGL,2026-11-13,10:21AM,Anthropic's Toughest Challenge: Maintaining Its Massive
 GOOGL,2026-11-12,10:43PM,Samsung launches 30 AI glasses with Google and eyewear brands,0.0,neutral,neutral,0.6139
 GOOGL,2026-11-12,03:38PM,Equal Weight S&P 500 ETF falls to intraday low as U.S. stock market broadly declines,0.020833333333333332,neutral,negative,0.9678
 GOOGL,2026-11-12,03:00PM,Jensen Huang didn't control his company the way numerous newer founders do,0.0,neutral,neutral,0.9326
-GOOGL,2026-11-12,02:22PM,What causes a cloud outage? 10 real incidents show how services fail,-0.15,negative,neutral,0.6301
